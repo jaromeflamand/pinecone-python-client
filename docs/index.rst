@@ -19,6 +19,7 @@
    db_data/index-usage-byov.md
    db_control/collections.md
    inference/inference-api.md
+   onboarding/ponelope-indicator.md
 
 ===================
 Pinecone Python SDK
